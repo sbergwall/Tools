@@ -18,3 +18,9 @@ Start the UI with `Invoke-NetworkTestingClient`.
 
 #### Links
 [Lync.se - Network Testing Companion](https://www.lync.se/2019/09/network-testing-companion/)
+
+## Exchange
+
+### Security & Protection
+
+[Top 10 ways to secure Microsoft 365 for business plans](https://docs.microsoft.com/en-us/microsoft-365/admin/security-and-compliance/secure-your-business-data?view=o365-worldwide#ransomware)
