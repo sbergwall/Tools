@@ -1,6 +1,10 @@
 # Tools
 
-## Microsoft Teams & Skype for Business
+## Microsoft Lync Server & Skype for Business Server
+
+[Snooper Download](https://www.microsoft.com/en-us/download/details.aspx?id=57508)
+
+## Microsoft Teams & Skype for Business Online
 
 [Teams troubleshooting](https://docs.microsoft.com/en-us/microsoftteams/troubleshoot/teams-welcome)
 
