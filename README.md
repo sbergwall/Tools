@@ -28,3 +28,11 @@ Start the UI with `Invoke-NetworkTestingClient`.
 ### Security & Protection
 
 [Top 10 ways to secure Microsoft 365 for business plans](https://docs.microsoft.com/en-us/microsoft-365/admin/security-and-compliance/secure-your-business-data?view=o365-worldwide#ransomware)
+
+## Certificates
+
+[https://crt.sh/](https://crt.sh/)
+This site shows you every SSL cert that was registered for any domain.
+
+[SSLscan](https://github.com/rbsec/sslscan)
+
