@@ -4,6 +4,12 @@
 
 [Snooper Download](https://www.microsoft.com/en-us/download/details.aspx?id=57508)
 
+[Antivirus scanning exclusions for Lync Server 2013](https://docs.microsoft.com/en-us/previous-versions/office/lync-server-2013/lync-server-2013-antivirus-scanning-exclusions?redirectedfrom=MSDN)
+
+[Antivirus scanning exclusions for Skype for Business Server 2015](https://docs.microsoft.com/en-us/skypeforbusiness/plan-your-deployment/security/antivirus)
+
+[Antivirus scanning exclusions for Skype for Business Server 2019](https://docs.microsoft.com/en-us/skypeforbusiness/plan-your-deployment/security/antivirus?toc=/SkypeForBusiness/sfbs2019toc/toc.json&bc=/SkypeForBusiness/breadcrumb/toc.json)
+
 ## Microsoft Teams & Skype for Business Online
 
 [Teams troubleshooting](https://docs.microsoft.com/en-us/microsoftteams/troubleshoot/teams-welcome)
