@@ -1,12 +1,6 @@
 # Tools
 
-# Table of Contents
-1. [Microsoft Lync Server & Skype for Business Server](#Microsoft Lync Server & Skype for Business Server)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
-
-# Microsoft Lync Server & Skype for Business Server
+## Microsoft Lync Server & Skype for Business Server
 
 [Snooper Download](https://www.microsoft.com/en-us/download/details.aspx?id=57508)
 
