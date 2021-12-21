@@ -38,3 +38,6 @@ This site shows you every SSL cert that was registered for any domain.
 
 [SSLscan](https://github.com/rbsec/sslscan)
 
+## SharePoint Server
+
+[PnP-Tools: Search QueryTools](https://github.com/pnp/PnP-Tools/tree/master/Solutions/SharePoint.Search.QueryTool)
