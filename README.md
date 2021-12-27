@@ -10,6 +10,8 @@
 
 [Antivirus scanning exclusions for Skype for Business Server 2019](https://docs.microsoft.com/en-us/skypeforbusiness/plan-your-deployment/security/antivirus?toc=/SkypeForBusiness/sfbs2019toc/toc.json&bc=/SkypeForBusiness/breadcrumb/toc.json)
 
+[On-Premises Diagnostics for Skype for Business Server](https://github.com/onpremdiag/SfBServer)
+
 ## Microsoft Teams & Skype for Business Online
 
 [Teams troubleshooting](https://docs.microsoft.com/en-us/microsoftteams/troubleshoot/teams-welcome)
