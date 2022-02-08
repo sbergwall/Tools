@@ -33,6 +33,10 @@ Open PowerShell and run it as Administrator. Execute the command `Install-Module
 
 [Top 10 ways to secure Microsoft 365 for business plans](https://docs.microsoft.com/en-us/microsoft-365/admin/security-and-compliance/secure-your-business-data?view=o365-worldwide#ransomware)
 
+[Get-Exchange2019AVExclusions.ps1](https://www.alitajran.com/wp-content/uploads/scripts/Get-Exchange2019AVExclusions.ps1)
+
+[CSS-Exchange](https://github.com/microsoft/CSS-Exchange)
+
 ## Certificates
 
 [https://crt.sh/](https://crt.sh/)
